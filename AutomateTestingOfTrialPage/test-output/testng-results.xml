@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-27T10:26:13Z" name="Default suite" finished-at="2019-08-27T10:29:04Z" duration-ms="170649">
+    <groups>
+    </groups>
+    <test started-at="2019-08-27T10:26:13Z" name="Default test" finished-at="2019-08-27T10:29:04Z" duration-ms="170649">
+      <class name="com.atmecs.testscripts.HomePageTesting">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.atmecs.testscripts.HomePageTesting@3745e5c6]" started-at="2019-08-27T10:26:07Z" name="setUp" finished-at="2019-08-27T10:26:13Z" duration-ms="6783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHome(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.testscripts.HomePageTesting@3745e5c6]" started-at="2019-08-27T10:26:14Z" name="testHome" data-provider="data-provider" finished-at="2019-08-27T10:26:50Z" duration-ms="35934" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arjun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[santra]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[arjun.santra355@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[It]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Atmecs]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9.191919191E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHome -->
+        <test-method signature="testHome(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.testscripts.HomePageTesting@3745e5c6]" started-at="2019-08-27T10:26:50Z" name="testHome" data-provider="data-provider" finished-at="2019-08-27T10:27:23Z" duration-ms="32677" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[saurabh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chauhan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chauhaninfj@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[It]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Atmecs]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9.191919192E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHome -->
+        <test-method signature="testHome(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.testscripts.HomePageTesting@3745e5c6]" started-at="2019-08-27T10:27:23Z" name="testHome" data-provider="data-provider" finished-at="2019-08-27T10:27:59Z" duration-ms="35726" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rishav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rishav.kumar.25@gmail.com ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[It]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Atmecs]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9.191919193E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHome -->
+        <test-method signature="testHome(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.testscripts.HomePageTesting@3745e5c6]" started-at="2019-08-27T10:27:59Z" name="testHome" data-provider="data-provider" finished-at="2019-08-27T10:28:31Z" duration-ms="32034" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anusha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sai]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[anusha.sai.34@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[It]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Wipro]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9.191919194E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHome -->
+        <test-method signature="testHome(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.testscripts.HomePageTesting@3745e5c6]" started-at="2019-08-27T10:28:31Z" name="testHome" data-provider="data-provider" finished-at="2019-08-27T10:29:04Z" duration-ms="33278" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[raja]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shukla]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[raja.shukla45@hotmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[It]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Wipro]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9.191919195E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHome -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.atmecs.testscripts.HomePageTesting@3745e5c6]" started-at="2019-08-27T10:29:04Z" name="tearDown" finished-at="2019-08-27T10:29:04Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.atmecs.testscripts.HomePageTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
