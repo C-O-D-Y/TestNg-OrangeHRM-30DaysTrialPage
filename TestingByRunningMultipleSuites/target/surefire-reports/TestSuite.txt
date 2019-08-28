@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 2, Errors: 0, Skipped: 9, Time elapsed: 5.193 s <<< FAILURE! - in TestSuite
+chooseWebDriver(com.atmecs.testscripts.HomePageTesting)  Time elapsed: 4.682 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Unable to find a matching set of capabilities
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-038', ip: '55.55.53.77', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: driver.version: ChooseWebDriver
+remote stacktrace: 
+
+tearDown(com.atmecs.testscripts.HomePageTesting)  Time elapsed: 0.096 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.atmecs.testscripts.HomePageTesting.tearDown(HomePageTesting.java:28)
+
